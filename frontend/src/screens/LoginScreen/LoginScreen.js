@@ -16,6 +16,7 @@ const navigate=useNavigate()
 //  const [password,setPassword]=useState("")
 
  const [error,setError]=useState(false)
+ console.log("ll")
 
  const {
   register,
